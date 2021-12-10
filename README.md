@@ -1,1 +1,3 @@
-# ejercicio_felicitacion-navide-a
+# Ejercicio Felicitación Navideña
+Lenguajes de marcas y sistemas de gestión de información<br>
+Autor: Marius Bogdan Burca
